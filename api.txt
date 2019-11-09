@@ -1,0 +1,2 @@
+Connect python api with accuweather api and store data inside a json file
+https://help.parsehub.com/hc/en-us/articles/217751808-API-Tutorial-How-to-get-run-data-using-Python-Flask

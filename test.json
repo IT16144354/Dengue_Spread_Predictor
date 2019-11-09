@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medidocsl2019",
+  "private_key_id": "312108b4d739963004441c7619a1a0e3a8da5220",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr60VpM4IsXHaS\nrqDUQmE2/N8f+toAxKf2bTbWxvKm3QySOnQd8N77IqQI0NSGWDDsPf8PTgMg7tWX\n7PasZVbZ/6nr2lFgmMnQtptInk4PJRmmSrydNMUHnb/bWVUqH08VmB+FQdODjXLY\ndtPu/DygQIItsT1vGP9I8j3h3Tts3iJpTzOrYp4/pI90LZfB53nSMHH4n4jN7mp7\n4CEELfHvE0P+YbEc0RKq2u3aHrg0zYRLd188w42XAQnqWWx93waaeL6YIX+L6FsX\nI8pAgZsj3PPNjqo340TDQmXyWN9u50AHyl0KLCSlihyW5bgXo8WXuYiP5Cokss/E\nUbt57u/5AgMBAAECggEADPYNw4EpISJ1cNiU8nu9eL5QYHvyjJh6JN3iz2148Zov\nu1e7byujCMiTS/QM81xZwxQ0Rj/QHfiaBm9/wP6NsWpd5RSoCihqt387SAD7V8pc\nKGMKqXvgsN+a2jT32T2g1W4+Th2CdOQPBc44ay39sIOi7Nv0cQt8gtAUjBJrfpxF\nX6Fe/Gp10KcutDtxyZewRTWKaEm/kkTPOZhppmux6+iT+I+ZzSVvYkjAOlgCn6+C\nmMWAZSESTmRDRKBti3ll+4ZhpAB9fxDmgAQGHL0x2zWIscm6JZQu7i2qcQqSLlxA\nSrsrHewe7sM8oAnbyoYbi0+yqUdXjIDye2kUA46iiwKBgQDfl39nmgEm7S90usCs\n1YPwB6p+Y3h710jHKszRzSNLGFo43MuTTTForqev7Rs3LArt002QWcg8OkHbF/eS\nI9vNgBGgVtCIBAWabgiKPkWizIHnfvZZGzjaVlosyV6uSPbMHWIPjm6D2zaZ6QAH\nNhvCbC/OBVAjZV1eqXFV2Bkh6wKBgQDE1m0GubTfRHqEDZOhgioLPpvA2K6Va8PL\nCS2178QfWV4tCQS2RuorMFT/P6W4VXYiX85u+Z7LZzbrFoVd3J592L4ni8Tltagy\nKPfIcXBbnRcrHmSMm51rsmHx9tkfx2/aBffwlDhbxux4w3+pDudMDbpnFpiQTphm\nVdtQHNXYqwKBgDgebTLSm5FqnKuep/d5S7k2I1u/maDzoueiXXAXHdGeVh7JhCr/\nh/QvShVE3LzXSBLzIxelATXkpVzZQiEi8Os+Rq5Iu+Q3pjRhg7E2+gFndP9mhWxO\nAdIDNHTjQelalN8cTN18sU5U+fpdWc11jjgZMVJzUO7hZTL6MmEKcRxrAoGBAJtq\nuxcOVlPbW+kcVy60+cF7I7u22tI8DpInoyH+OJqQE533evL5Nzf2p4YKmSzcvbQS\ndYqGKe1sh55DX/ZmlfXDxxCueT7umelRE6P+fbq4ZGy1SKsEy90XMeK9B17iN9yr\nzcL1JTLB9EC+C/ROQi54wG9ZFgkLJaXXsJymx+qVAoGBAJjjMzcJUhwbFUopKU41\nozJCTsJL2mrZM8X9k4CV2W+EZGzt+ImuC6Otg/zYy/GO5XocJaU+FAEYnHbjbFGg\ns7HGhraFUWSujI4PpiX8E7Uaj0o/SjdQNlrCKdeKV+J4hHW/43ms3czfABA7zNm1\n2QfDVYfxA0HnCzvkOW1w0iLS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-701vj@medidocsl2019.iam.gserviceaccount.com",
+  "client_id": "109348022220729886931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-701vj%40medidocsl2019.iam.gserviceaccount.com"
+}
